@@ -31,10 +31,10 @@ An input form was created using a simple HTML template and a CSS style sheet. CS
 The Flask framework is used to create the back-end of a web application. It employs Jinja2, a templating language for creating HTML, XML, and other markup forms that are returned to the user via an HTTP request.
 
 ### Input
-<img src="https://github.com/Snehal-2310/Flight-Fare-Prediction/blob/main/Images/Capture.JPG" alt="Input"/> 
+<img src="https://github.com/Snehal-2310/Flight-Fare-Prediction/blob/main/Images/Input.JPG" alt="Input"/> 
 
 ### Output
-
+<img src="https://github.com/Snehal-2310/Flight-Fare-Prediction/blob/main/Images/Ouput.JPG" alt="Output"/> 
 
 
 
