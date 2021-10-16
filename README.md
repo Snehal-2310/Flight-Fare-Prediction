@@ -13,6 +13,16 @@ Training and model validation are done in the Jupyter Notebook and deployed on H
 ## Methodology
 <img src="https://github.com/Snehal-2310/Flight-Fare-Prediction/blob/main/Images/flowchart.jpg" align="centre" alt="Methodolgy" width=400 height=800/> 
 
+## After model fitting results
+I used random forest for regression and the score obtained is 79%. The graphs below also proves the gaussian distribution formed and the scatter plot itself depicts that the results are pretty much satisfying.
+
+![image](https://user-images.githubusercontent.com/62506140/137600258-291e62d2-dbfb-494b-8465-381c49eddd2a.png) ![image](https://user-images.githubusercontent.com/62506140/137600281-4e163afb-5b3a-4890-88ab-016b138ab43d.png)
+
+## After hyperparameter tuning
+I used randomized search CV using 5 fold cross validation for hyperparameter tuning. Below graphs show the final results.
+
+<img src="https://user-images.githubusercontent.com/62506140/137600295-eaf2b7ea-7475-42db-9112-613c7fe9f615.png" width=450 height=250/> <img src="https://user-images.githubusercontent.com/62506140/137600303-1d3491fe-b353-44d0-abfe-da6982f716f3.png" width=450 height=250/>
+
 ## Web Application
 Frontend is created using HTML and CSS and backend developed using Flask in Python and the app is deployed using Heruku.
 
