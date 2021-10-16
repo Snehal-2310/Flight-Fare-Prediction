@@ -8,12 +8,10 @@ Training and model validation are done in the Jupyter Notebook and deployed on H
 
 ### Technologies used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+![](https://forthebadge.com/images/badges/made-with-python.svg)[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 ## Methodology
-<img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/Methodology.jpg" align="centre" alt="Methodolgy" width=400 height=600/> 
+<img src="https://github.com/Snehal-2310/Flight-Fare-Prediction/blob/main/Images/flowchart.jpg" align="centre" alt="Methodolgy" width=400 height=800/> 
 
 ## Web Application
 Frontend is created using HTML and CSS and backend developed using Flask in Python and the app is deployed using Heruku.
